@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="877f46d2-1f36-4451-bfe3-a709a96c6cd1" name="Default" comment="" />
+    <list default="true" id="877f46d2-1f36-4451-bfe3-a709a96c6cd1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/arrays/array-indexOf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,11 +32,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="concatenation.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="concatenation.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/arrays/concatenation.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
               <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array-every.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/arrays/array-every.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array-indexOf.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/arrays/array-indexOf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -57,6 +78,9 @@
         <option value="$PROJECT_DIR$/src/arrays/literal.js" />
         <option value="$PROJECT_DIR$/src/helpers/args-helper.js" />
         <option value="$PROJECT_DIR$/src/arrays/concatenation.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/arrays/array-every.js" />
+        <option value="$PROJECT_DIR$/src/arrays/array-indexOf.js" />
       </list>
     </option>
   </component>
@@ -125,17 +149,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.concatenation.js">
+  <component name="RunManager" selected="Node.js.array-every.js">
     <configuration name="args-helper.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="args-helper.js" working-dir="$PROJECT_DIR$/src/helpers" />
+    <configuration name="array-every.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="array-every.js" working-dir="$PROJECT_DIR$/src/arrays" />
     <configuration name="basic.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="basic.js" working-dir="$PROJECT_DIR$/src/arrays" />
     <configuration name="concatenation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="concatenation.js" working-dir="$PROJECT_DIR$/src/arrays" />
     <list>
       <item itemvalue="Node.js.basic.js" />
       <item itemvalue="Node.js.args-helper.js" />
       <item itemvalue="Node.js.concatenation.js" />
+      <item itemvalue="Node.js.array-every.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.array-every.js" />
         <item itemvalue="Node.js.concatenation.js" />
         <item itemvalue="Node.js.args-helper.js" />
         <item itemvalue="Node.js.basic.js" />
@@ -152,12 +179,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537343765664</updated>
-      <workItem from="1537343767675" duration="1974000" />
+      <workItem from="1537343767675" duration="2745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1974000" />
+    <option name="totallyTimeSpent" value="2745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -216,6 +243,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/array-every.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/array-indexOf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
